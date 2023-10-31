@@ -1,5 +1,5 @@
-const box1 = document.querySelector("#box1");
-const box2 = document.querySelector("#box2");
+const box1 = document.getElementById("box1");
+const box2 = document.getElementById("box2");
 const body = document.querySelector("body");
 
 let box1active = false;
